@@ -35,23 +35,41 @@ class Solution {
         return max_hour_glass(Mat);
     }
     
-      static int max_hour_glass(int[][] arr){
-        int max = -1;
-        int sum = 0;
-        for(int i = 0 ; i < arr.length ; i++){
-            for(int j = 0 ; j < arr[i].length ; j++){
-                if(i == 0 || j == 0 || i == arr.length-1 || j == arr[i].length-1){
+     static int max_hour_glass(int[][] arr){
+        int sum=0,max=-1;
+        for(int i=0;i<arr.length;i++){
+            for(int j=0;j<arr[i].length;j++){
+                if(i==0 || j==0 || i==arr.length-1 || j==arr[i].length-1) {
                     continue;
-                }
-                else{
-                    sum = arr[i][j]+arr[i-1][j]+arr[i-1][j+1]+arr[i-1][j-1]+arr[i+1][j]+arr[i+1][j+1]+arr[i+1][j-1];
-                    if(sum > max){
-                        max = sum;
+                }else{
+                    sum=arr[i][j]+arr[i-1][j]+arr[i-1][j+1]+arr[i-1][j-1]+arr[i+1][j]+arr[i+1][j+1]+arr[i+1][j-1];
+                    if(sum>max){
+                        max=sum;
                     }
                 }
-            }
 
+            }
         }
         return max;
     }
+    
+    //  static int max_hour_glass(int[][] arr){
+    //     int max = -1;
+    //     int sum = 0;
+    //     for(int i = 0 ; i < arr.length ; i++){
+    //         for(int j = 0 ; j < arr[i].length ; j++){
+    //             if(i == 0 || j == 0 || i == arr.length-1 || j == arr[i].length-1){
+    //                 continue;
+    //             }
+    //             else{
+    //                 sum = arr[i][j]+arr[i-1][j]+arr[i-1][j+1]+arr[i-1][j-1]+arr[i+1][j]+arr[i+1][j+1]+arr[i+1][j-1];
+    //                 if(sum > max){
+    //                     max = sum;
+    //                 }
+    //             }
+    //         }
+
+    //     }
+    //     return max;
+    // }
 };
