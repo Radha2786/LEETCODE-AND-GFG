@@ -25,23 +25,10 @@ class GFG
 
 //User function Template for Java
 class Solution{
-    static int singleDigit(long N){
-        return single_Digit(N);
+    static int singleDigit(long n){
+        if (n == 0)
+        return 0;
+        return (n % 9 == 0) ? 9 : (int) (n % 9);
     }
-    static int single_Digit(long N){
-        while (N > 9){
-            int n = sum_of_digits(N);
-            N = n;
-        }
-        return (int) N;
-    }
-
-    static int sum_of_digits(long n){
-        int SOD = 0;
-        while (n > 0){
-            SOD += n%10;
-            n /= 10;
-        }
-        return SOD;
-    }
+    
 }
