@@ -36,46 +36,30 @@ class Rat {
 class Solution {
     public static ArrayList<String> findPath(int[][] board, int n) {
         ArrayList<String> list = new ArrayList<>();
-        maze(board , 0 , 0 , list , "");
-        if(list.size() == 0){
-            list.add("-1");
-        }
+        Maze(board,0,0,list,"");
         return list;
     }
-    
-     static void maze(int[][] board , int r , int c , ArrayList<String> list , String ans){
-
-//        BASE CONDITION
-        if(r == board.length-1 && c == board.length-1){
-            if(board[r][c] != 0){
+    static void Maze(int[][] board,int row, int col, ArrayList<String>list,String ans){
+        if(row==board.length-1 && col==board[0].length-1){
+            if(board[row][col]!=0){
                 list.add(ans);
             }
-            
             return;
         }
-
-//          2ND BASE CONDITION
-        if(r < 0 || r == board.length || c < 0 || c  == board.length || board[r][c] == 0){
-            return;
+        if(row==board.length || col== board.length || row<0 || col<0 || board[row][col]==0){
+            return ;
         }
-
-//        visited
-        board[r][c] = 0;
-
-//        MOVE DOWN
-        maze(board , r+1 , c , list , ans+'D');
-
-//        MOVE UP
-        maze(board , r-1 , c , list , ans+'U');
-
-//        MOVE RIGHT
-        maze(board , r , c + 1 , list , ans+'R');
-
-//        MOVE LEFT
-        maze(board , r , c-1 , list , ans+'L');
-
-//        unvisited
-        board[r][c] = 1;
-
+        board[row][col]=0;
+        
+        // down call
+        Maze(board,row+1,col,list,ans+'D');
+        //up 
+         Maze(board,row-1,col,list,ans+'U');
+         //left
+          Maze(board,row,col-1,list,ans+'L');
+          // right
+           Maze(board,row,col+1,list,ans+'R');
+           
+             board[row][col]=1;
     }
 }
