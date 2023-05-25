@@ -49,37 +49,25 @@ class Solution
 {
     //Function to modify the matrix such that if a matrix cell matrix[i][j]
     //is 1 then all the cells in its ith row and jth column will become 1.
-    void booleanMatrix(int matrix[][])
+    void booleanMatrix(int arr[][])
     {
-        setMatrix(matrix);
-    }
-    
-         static void setMatrix(int[][] arr){
-        int[] row_array = new int[arr.length];
-        int[] col_array = new int[arr[0].length];
-
-        for(int i = 0 ; i < arr.length ; i++){
-            for(int j = 0 ; j < arr[i].length ; j++){
-                if(arr[i][j] == 1){
-                    row_array[i] = 1;
-                    col_array[j] = 1;
+          int[] row = new int[arr.length];
+        int[] col = new int[arr[0].length];
+        for(int i=0;i<arr.length ; i++){
+            for(int j=0;j<arr[0].length;j++){
+                if(arr[i][j]==1){
+                    row[i]=1;
+                    col[j]=1;
                 }
             }
         }
-
-        // System.out.println(Arrays.toString(row_array));
-        // System.out.println(Arrays.toString(col_array));
-
-        for(int i = 0 ; i < arr.length ; i++){
-            for(int j = 0 ; j < arr[0].length ; j++){
-                if(row_array[i] == 1 || col_array[j] == 1){
-                    arr[i][j] = 1;
+        for(int i=0;i<arr.length;i++){
+            for(int j=0;j<arr[0].length;j++){
+                if(row[i]==1 || col[j]==1){
+                    arr[i][j]=1;
                 }
             }
         }
-
-        // print(arr);
-
+        // code here 
     }
-
 }
