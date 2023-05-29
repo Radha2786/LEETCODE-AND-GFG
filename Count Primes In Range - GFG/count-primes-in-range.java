@@ -35,7 +35,7 @@ class Solution {
         boolean[] arr = new boolean[R+1];
         int n=R;
         arr[0] = arr[1] = true;
-        for(int i = 2;i<=n;i++){
+        for(int i = 2;i*i<=n;i++){
             if(arr[i] == false){
                 for(int j=2;i*j<=n;j++){
                     arr[j*i]=true;
