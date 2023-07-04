@@ -35,48 +35,36 @@ class Solution
     //Function to find if there is a celebrity in the party or not.
     int celebrity(int arr[][], int n)
     {
-    	return Celebrity(arr);
+    	
+    Stack<Integer> stack = new Stack<>();
+    for(int i=0;i<n;i++){
+        stack.push(i);
     }
-    
-     static int Celebrity(int[][] arr){
-        Stack<Integer> stack = new Stack<>();
-        for(int i = 0 ; i < arr.length ; i++){
-            stack.push(i);
+    while(stack.size()>1){
+        int indx1=stack.pop();
+        int indx2=stack.pop();
+        if(arr[indx1][indx2]==0 && arr[indx2][indx1]==1){
+            stack.push(indx1);
         }
-        
-        while (stack.size() > 1){
-            int p1 = stack.pop();
-            int p2 = stack.pop();
-            
-            if(arr[p1][p2] == 0 && arr[p2][p1] == 1){
-                stack.push(p1);
-            }
-            
-            if(arr[p2][p1] == 0 && arr[p1][p2] == 1){
-                stack.push(p2);
-            }
-            
+        if(arr[indx2][indx1]==0 && arr[indx1][indx2]==1){
+            stack.push(indx2);
         }
-        
-         if(stack.isEmpty()){
-            return -1;
-        }
-
-        int potential = stack.pop();
-        for(int i = 0 ; i < arr.length ; i++){
-            if(i == potential){
-                continue;
-            }
-            
-            // if(arr[i][potential] == 0){
-            //     return -1;
-            // }
-            
-            if(arr[i][potential] == 0 || arr[potential][i] == 1){
-                return -1;
-            }
-        }
-        
-        return potential;
+    }
+    if(!stack.isEmpty()){
+    int candidate = stack.pop();
+    for(int i = 0 ; i < arr.length ; i++){
+    	    if(i == candidate){
+    	        continue;
+    	    }
+    	    
+    	    if(arr[i][candidate] == 0 || arr[candidate][i]==1){
+    	        return -1;
+    	    }
+    	}
+    	
+    	return candidate;
+    }else{
+        return -1;
+    }
     }
 }
