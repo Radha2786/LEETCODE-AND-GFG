@@ -128,24 +128,25 @@ class Node
 class Solution {
     // Function to convert a binary tree into its mirror tree.
     void mirror(Node node) {
-            // if(node==null){
-            // return null;
-        // }
-        // Node temp = node.left;
-        // node.left=mirror(node.right);
-        // node.right=mirror(temp);
-        // return node;
         // Your code here
-        invertTree(node);
+    invertTree(node);
+        
+        
+        
+        
     }
-     public Node invertTree(Node root) {
-        if(root==null){
-            return null;
-        }
-        Node temp = root.left;
-        root.left=invertTree(root.right);
-        root.right=invertTree(temp);
-        return root;
+      public Node invertTree(Node root) {
+
+      // Recursive solution
+      if(root==null){
+        return null;
+      }
+
+      Node left = invertTree(root.left);
+      Node right = invertTree(root.right);
+      root.left=right;
+      root.right=left;
+      return root ;
         
     }
 }
