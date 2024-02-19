@@ -9,8 +9,11 @@ class Solution {
             }else{
                 int position = BinarySearch(list,nums[i]);
                 list.set(position,nums[i]);
+                    System.out.println(list);
             }
         }
+        System.out.println("----------");
+        System.out.println(list);
         return list.size();
     }
   public static int BinarySearch(List<Integer> list, int element){
