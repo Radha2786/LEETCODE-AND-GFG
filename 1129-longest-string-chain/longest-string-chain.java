@@ -2,7 +2,8 @@
 class Solution {
     public int longestStrChain(String[] words) {
        
-        Arrays.sort(words,comp);
+        Arrays.sort(words, (s1, s2) -> s1.length() - s2.length());
+
         int n = words.length;
         int max = 1;
         int[] dp = new int[n];
@@ -18,7 +19,7 @@ class Solution {
         return max;
     }
 
-     public static Comparator<String> comp = (s1, s2) -> s1.length() - s2.length();
+    //  public static Comparator<String> comp = (s1, s2) -> s1.length() - s2.length();
 
     public static boolean Compare(String str1, String str2){
         if(str1.length()!=str2.length()+1){
