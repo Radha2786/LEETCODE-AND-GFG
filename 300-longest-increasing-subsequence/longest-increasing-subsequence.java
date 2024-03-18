@@ -12,8 +12,8 @@ class Solution {
                     System.out.println(list);
             }
         }
-        System.out.println("----------");
-        System.out.println(list);
+        // System.out.println("----------");
+        // System.out.println(list);
         return list.size();
     }
   public static int BinarySearch(List<Integer> list, int element){
@@ -29,6 +29,7 @@ class Solution {
                 s=mid+1;
             }
         }
+        System.out.println("position is"+ans);
         return ans;
     }
 }
