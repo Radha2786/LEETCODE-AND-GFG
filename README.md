@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0075-sort-colors) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -32,3 +33,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0048-rotate-image) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
