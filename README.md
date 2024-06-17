@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0075-sort-colors) |
 # Divide and Conquer
@@ -23,3 +24,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0075-sort-colors) |
+# Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0048-rotate-image) |
+# Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0048-rotate-image) |
