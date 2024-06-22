@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0075-sort-colors) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 # Sorting
 |  |
 | ------- |
@@ -36,3 +37,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0048-rotate-image](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0048-rotate-image) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+# Linked List
+|  |
+| ------- |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+# Stack
+|  |
+| ------- |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
