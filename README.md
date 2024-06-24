@@ -45,3 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+# String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0008-string-to-integer-atoi) |
