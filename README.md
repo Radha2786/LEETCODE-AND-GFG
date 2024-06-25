@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0050-powx-n) |
 # Matrix
 |  |
 | ------- |
@@ -49,3 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0008-string-to-integer-atoi) |
+# Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0050-powx-n) |
