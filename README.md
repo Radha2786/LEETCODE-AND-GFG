@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0048-rotate-image](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0050-powx-n) |
+| [2050-count-good-numbers](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/2050-count-good-numbers) |
 # Matrix
 |  |
 | ------- |
@@ -54,3 +55,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0050-powx-n) |
+| [2050-count-good-numbers](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/2050-count-good-numbers) |
