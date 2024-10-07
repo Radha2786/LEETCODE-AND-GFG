@@ -61,5 +61,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0004-median-of-two-sorted-arrays) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
