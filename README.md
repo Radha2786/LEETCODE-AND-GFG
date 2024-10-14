@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0485-max-consecutive-ones) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
 |  |
