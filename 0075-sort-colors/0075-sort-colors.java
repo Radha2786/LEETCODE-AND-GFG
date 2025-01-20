@@ -1,25 +1,25 @@
+// Brute force Solution
+
 class Solution {
-    // Dutch National flag Algorithm (Striver-- intution)
     public void sortColors(int[] nums) {
-        int low = 0 , mid = 0 ;
-        int high = nums.length-1;
-        while(mid<=high){
-            if(nums[mid]==0){
-                // swap arr[0] and arr[mid] and increase both
-                int temp = nums[mid];
-                nums[mid]=nums[low];
-                nums[low]= temp;
-                mid++;
-                low++;
-            }else if(nums[mid]==1){
-                mid++;
+        int CountZero = 0, CountOne = 0, CountTwo = 0;
+        for(int i=0;i<nums.length;i++){
+            if(nums[i]==0){
+                CountZero++;
+            }else if(nums[i]==1){
+                CountOne++;
             }else{
-                // swap arr[mid] and arr[high]
-                int temp = nums[mid];
-                nums[mid]=nums[high];
-                nums[high]= temp;
-                high--;
+                CountTwo++;
             }
-        } 
+        }
+        for(int i=0;i<CountZero;i++){
+            nums[i]=0;
+        }
+        for(int i=CountZero; i<CountZero+CountOne; i++){
+            nums[i]=1;
+        }
+        for(int i= CountZero+CountOne ; i<nums.length;i++){
+            nums[i]=2;
+        }
     }
 }
