@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0485-max-consecutive-ones) |
+| [1364-tuple-with-same-product](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/1364-tuple-with-same-product) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0268-missing-number) |
+| [1364-tuple-with-same-product](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Math
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Sliding Window
 |  |
