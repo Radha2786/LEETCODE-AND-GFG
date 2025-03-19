@@ -176,4 +176,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0024-swap-nodes-in-pairs) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
