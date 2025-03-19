@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0050-powx-n) |
 ## Two Pointers
 |  |
@@ -171,4 +172,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
