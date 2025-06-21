@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0022-generate-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -177,4 +178,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
