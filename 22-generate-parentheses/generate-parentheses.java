@@ -1,30 +1,24 @@
 class Solution {
     public List<String> generateParenthesis(int n) {
-        List<String> list = new ArrayList<>();
-        Generate_Paranthesis(n, n,n, list, "");
-        return list;
+        List<String> ans = new ArrayList<>();
+        // List<Character> list = new ArrayList<>();
+        Generate(n, 0, 0,ans,"");
+        return ans;
     }
-    public static void Generate_Paranthesis(int opening,int n, int closing, List<String> list, String ans){
-        if(opening==0 && closing==0){
-            list.add(ans);
-            return ;
-        }
-        if(opening<0 || closing <0){
-            return ;
-        }
-        // call for open bracket
-       
-            Generate_Paranthesis(opening-1,n,closing, list, ans+'(');
-            
-        // call for closing bracket
 
-        if(closing>opening){
-             Generate_Paranthesis(opening,n,closing-1, list, ans+')');
+    public static void Generate(int n, int open, int close, List<String> ans, String str){
+        if(open== n && close==n){
+            ans.add(str);
+            return;
         }
+        
+        if(open<n){
+            Generate(n, open+1, close,ans, str+"(");
 
-           
-            
-      
-
+        }
+        if(close<n && open>close){
+            Generate(n, open, close+1, ans,str+ ")");
+        }
+                
     }
 }
