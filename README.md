@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0386-lexicographical-numbers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
@@ -186,4 +187,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0022-generate-parentheses) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
