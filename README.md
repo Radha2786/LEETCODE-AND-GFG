@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3617-find-the-original-typed-string-i](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/3617-find-the-original-typed-string-i) |
 ## Recursion
 |  |
 | ------- |
