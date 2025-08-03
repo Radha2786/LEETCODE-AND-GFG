@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0040-combination-sum-ii) |
 | [0075-sort-colors](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0189-rotate-array) |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0040-combination-sum-ii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Depth-First Search
 |  |
