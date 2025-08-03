@@ -1,28 +1,33 @@
 class Solution {
     public List<List<Integer>> combinationSum2(int[] candidates, int target) {
-        Arrays.sort(candidates);
+               Arrays.sort(candidates);
+//       1,1,2,3,5,6,7,10;
         List<Integer> list = new ArrayList<>();
         List<List<Integer>> ll = new ArrayList<>();
-        CombinationSum2(candidates,target,0,list,ll);
-        return ll;
+        Combination(candidates, target, list, ll, 0, 0);
+        // System.out.println(ll);
+       return ll;
+        
     }
-    public static void CombinationSum2(int[] candidates , int target, int index ,List<Integer> list,List<List<Integer>> ll){
-        if(target<0){
-            return;
-        }
-        if(target==0){
+
+
+    public static void Combination(int[] arr, int target, List<Integer> list, List<List<Integer>> ll, int sum, int index){
+        if(sum==target){
             ll.add(new ArrayList<>(list));
             return;
         }
-
-        for(int i=index ; i<candidates.length;i++){
-         
-            if(index==i || candidates[i]!=candidates[i-1]){
-                   list.add(candidates[i]);
-                 CombinationSum2(candidates,target-candidates[i],i+1,list,ll);
-                  list.remove(list.size()-1);
+        if(sum>target){
+            return;
+        }
+        //       1,1,2,3,5,6,7,10;
+        for(int i=index;i<arr.length;i++){
+            if(i==index || arr[i]!=arr[i-1]) {
+                list.add(arr[i]);
+                sum += arr[i];
+                Combination(arr, target, list, ll, sum, i + 1);
+                list.remove(list.size() - 1);
+                sum = sum - arr[i];
             }
-           
         }
     }
 }
