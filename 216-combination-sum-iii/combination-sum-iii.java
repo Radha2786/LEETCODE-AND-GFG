@@ -1,25 +1,30 @@
 class Solution {
     public List<List<Integer>> combinationSum3(int k, int n) {
+        List<List<Integer>> ll = new ArrayList<>();
         List<Integer> list = new ArrayList<>();
-        List<List<Integer>> ls = new ArrayList<>();
-        Combinationsum3(k,n,1,list,ls);
-        return ls;
+        if(k>n){
+            return ll;
+        }
+        Combination(k, n , list,  ll, 1, 0);
+        return ll;
     }
-    public static void Combinationsum3(int k, int n,int index, List<Integer> list, List<List<Integer>> ll){
-        // base case
-        if(list.size()==k && n==0){
-            ll.add(new ArrayList<>(list));
-            return;
+
+    public static void Combination(int k, int n , List<Integer> list, List<List<Integer>> ll, int index, int sum){
+        if(index>9){
+            if(sum==n && list.size()==k){
+                ll.add(new ArrayList<>(list));
+                return;
+            }else{
+                return;
+            }
         }
-        if(list.size()==k){
-            return;
-        }
-        for(int i=index;i<=9;i++){
-            list.add(i);
-             Combinationsum3(k,n-i,i+1,list,ll);
-            //  System.out.println(list);
-             list.remove(list.size()-1);
-        }
-       
+
+        list.add(index);
+        Combination(k, n , list, ll, index+1, sum+index);
+        list.remove(list.size()-1);
+
+        // not choose
+        Combination(k, n , list, ll, index+1, sum);
+
     }
 }
