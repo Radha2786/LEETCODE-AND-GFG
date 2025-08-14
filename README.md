@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0008-string-to-integer-atoi](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0131-palindrome-partitioning) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0118-pascals-triangle) |
+| [0131-palindrome-partitioning](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0131-palindrome-partitioning) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/3618-find-the-original-typed-string-ii) |
 ## Backtracking
 |  |
@@ -212,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0040-combination-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0216-combination-sum-iii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Depth-First Search
