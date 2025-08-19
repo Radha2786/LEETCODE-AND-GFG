@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0040-combination-sum-ii) |
 | [0075-sort-colors](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0075-sort-colors) |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0037-sudoku-solver) |
 | [0268-missing-number](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0268-missing-number) |
 | [0940-fruit-into-baskets](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0940-fruit-into-baskets) |
 | [1364-tuple-with-same-product](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/1364-tuple-with-same-product) |
@@ -212,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0040-combination-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0131-palindrome-partitioning) |
@@ -221,4 +224,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0386-lexicographical-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
