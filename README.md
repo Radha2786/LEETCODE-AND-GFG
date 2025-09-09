@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0131-palindrome-partitioning) |
+| [0583-delete-operation-for-two-strings](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0583-delete-operation-for-two-strings) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -214,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0131-palindrome-partitioning) |
+| [0583-delete-operation-for-two-strings](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0583-delete-operation-for-two-strings) |
 | [0967-minimum-falling-path-sum](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0967-minimum-falling-path-sum) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/1224-minimum-falling-path-sum-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/3618-find-the-original-typed-string-ii) |
