@@ -1,35 +1,36 @@
 class Solution {
     public int lengthOfLIS(int[] nums) {
-        // Binary Search optimal approach (only do while calculating length) 
-        List<Integer> list = new ArrayList<>();
-        list.add(nums[0]);
-        for(int i=1;i<nums.length ; i++){
-            if(nums[i]>list.get(list.size()-1)){
-                list.add(nums[i]);
-            }else{
-                int position = BinarySearch(list,nums[i]);
-                list.set(position,nums[i]);
-                    System.out.println(list);
-            }
-        }
-        // System.out.println("----------");
-        // System.out.println(list);
-        return list.size();
+        return LIS(nums);
     }
-  public static int BinarySearch(List<Integer> list, int element){
-        int s=0;
-        int e=list.size()-1;
-        int ans =0;
-        while(s<=e){
-            int mid = s+(e-s)/2;
-            if(list.get(mid)>=element){
-                ans=mid;
-                e=mid-1;
+     public static int LIS(int[] nums){
+        // if greater simply add
+        int[] lis = new int[nums.length];
+        lis[0]=nums[0];
+        int len=1;
+        for(int i=1;i<nums.length;i++){
+            if(nums[i]>lis[len-1]){
+                lis[len]=nums[i];
+                len++;
             }else{
-                s=mid+1;
+                int index = BinarySearch(lis,0, len-1, nums[i]);
+                lis[index]=nums[i];
             }
         }
-        System.out.println("position is"+ans);
-        return ans;
+        return len;
+    }
+    public static int BinarySearch(int[] lis, int start, int end, int target){ 
+
+        int index=0;
+
+        while(start<=end){
+            int mid = (start+end)/2;
+            if(target<=lis[mid]){
+                index=mid;
+                end = mid-1;
+            }else{
+                start= mid+1;
+            }
+        }
+        return index;  // target not found
     }
 }
