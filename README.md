@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0268-missing-number) |
 ## Bit Manipulation
@@ -214,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0022-generate-parentheses) |
 | [0064-minimum-path-sum](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0131-palindrome-partitioning) |
@@ -244,4 +246,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0064-minimum-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0967-minimum-falling-path-sum) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/1224-minimum-falling-path-sum-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
