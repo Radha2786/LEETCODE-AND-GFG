@@ -239,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0386-lexicographical-numbers) |
+| [2121-find-if-path-exists-in-graph](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/2121-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -250,4 +251,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0070-climbing-stairs) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/2121-find-if-path-exists-in-graph) |
+## Union Find
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/2121-find-if-path-exists-in-graph) |
+## Graph
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
