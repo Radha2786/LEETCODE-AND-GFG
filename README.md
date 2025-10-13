@@ -239,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0386-lexicographical-numbers) |
+| [0547-number-of-provinces](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0801-is-graph-bipartite) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/2121-find-if-path-exists-in-graph) |
 ## Matrix
@@ -255,16 +256,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0801-is-graph-bipartite) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0801-is-graph-bipartite) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0801-is-graph-bipartite) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
