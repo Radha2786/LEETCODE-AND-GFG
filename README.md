@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0300-longest-increasing-subsequence) |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0801-is-graph-bipartite) |
@@ -247,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0037-sudoku-solver](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0200-number-of-islands) |
 | [0967-minimum-falling-path-sum](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0967-minimum-falling-path-sum) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/1224-minimum-falling-path-sum-ii) |
 ## Memoization
@@ -256,12 +259,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0801-is-graph-bipartite) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0801-is-graph-bipartite) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/2121-find-if-path-exists-in-graph) |
