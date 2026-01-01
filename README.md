@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0040-combination-sum-ii) |
 | [0064-minimum-path-sum](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0189-rotate-array) |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0268-missing-number) |
