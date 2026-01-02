@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0040-combination-sum-ii) |
 | [0064-minimum-path-sum](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0189-rotate-array) |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0268-missing-number) |
 | [0940-fruit-into-baskets](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -255,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0037-sudoku-solver](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0967-minimum-falling-path-sum) |
