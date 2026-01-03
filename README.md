@@ -231,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0583-delete-operation-for-two-strings](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0583-delete-operation-for-two-strings) |
 | [0967-minimum-falling-path-sum](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0967-minimum-falling-path-sum) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/3618-find-the-original-typed-string-ii) |
 ## Backtracking
 |  |
