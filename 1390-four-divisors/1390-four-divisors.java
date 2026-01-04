@@ -14,8 +14,9 @@ class Solution {
                     }else{
                         count+=2;
                         sum+=factorial+other;
-                    }
+                    }   
                 }
+                if(count>4) break;
             }
             if(count==4){
                 result+=sum;
