@@ -6,7 +6,7 @@ class Solution {
             int num = nums[i];
             int count=0;
             int sum=0;
-            for(int factorial=1; factorial <= Math.sqrt(num) ; factorial++){
+            for(int factorial=1; factorial *factorial <= num ; factorial++){
                 if(num % factorial == 0){
                     int other = num/factorial;
                     if(other==factorial){
