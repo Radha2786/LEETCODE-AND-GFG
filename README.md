@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/1046-max-consecutive-ones-iii) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1364-tuple-with-same-product](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/1364-tuple-with-same-product) |
+| [1390-four-divisors](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/1390-four-divisors) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0268-missing-number) |
+| [1390-four-divisors](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/1390-four-divisors) |
 ## Bit Manipulation
 |  |
 | ------- |
