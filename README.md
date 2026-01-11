@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0200-number-of-islands) |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0300-longest-increasing-subsequence) |
@@ -263,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0967-minimum-falling-path-sum) |
@@ -292,4 +295,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0801-is-graph-bipartite) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/2121-find-if-path-exists-in-graph) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
