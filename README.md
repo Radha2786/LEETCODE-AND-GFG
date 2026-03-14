@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0300-longest-increasing-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0485-max-consecutive-ones) |
 | [0733-flood-fill](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0733-flood-fill) |
 | [0940-fruit-into-baskets](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0940-fruit-into-baskets) |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0004-median-of-two-sorted-arrays) |
+| [0347-top-k-frequent-elements](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -122,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0347-top-k-frequent-elements) |
 | [0940-fruit-into-baskets](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1364-tuple-with-same-product](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/1364-tuple-with-same-product) |
@@ -151,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0347-top-k-frequent-elements) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## String
 |  |
@@ -201,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0347-top-k-frequent-elements) |
 | [1364-tuple-with-same-product](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/1364-tuple-with-same-product) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -308,4 +313,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0085-maximal-rectangle) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
