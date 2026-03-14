@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0037-sudoku-solver) |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0037-sudoku-solver) |
