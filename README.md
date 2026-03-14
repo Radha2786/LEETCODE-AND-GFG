@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0300-longest-increasing-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0485-max-consecutive-ones) |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0073-set-matrix-zeroes) |
+| [0217-contains-duplicate](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0268-missing-number) |
 | [0940-fruit-into-baskets](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -147,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0268-missing-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## String
