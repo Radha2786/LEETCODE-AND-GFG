@@ -15,20 +15,17 @@
  */
 class Solution {
     public boolean isSameTree(TreeNode p, TreeNode q) {
-        return isSame(p,q);
-    }
-    public static boolean isSame(TreeNode t1 , TreeNode t2){
-        if(t1==null && t2==null){
+        if(p==null && q==null){
             return true;
-        }
-        if(t1==null || t2==null){
+        }else if(p==null || q==null){
             return false;
         }
-        // return t1.val==t2.val ;
-        boolean f1=isSame(t1.left,t2.left);
-       
-        boolean f2=isSame(t1.right,t2.right);
-         return ((f1 && f2) && t1.val==t2.val);
-       
+        if(p.val != q.val){
+            return false;
+        }
+        boolean left = isSameTree(p.left,q.left);
+        boolean right = isSameTree(p.right,q.right);
+        return left && right;
+
     }
 }
