@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0268-missing-number) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -267,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0216-combination-sum-iii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
