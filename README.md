@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0039-combination-sum) |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0268-missing-number) |
@@ -190,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0141-linked-list-cycle) |
