@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0733-flood-fill) |
 | [0940-fruit-into-baskets](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1364-tuple-with-same-product](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/1364-tuple-with-same-product) |
@@ -229,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/3618-find-the-original-typed-string-ii) |
