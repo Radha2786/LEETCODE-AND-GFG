@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-fruit-into-baskets](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0967-minimum-falling-path-sum](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0967-minimum-falling-path-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/1046-max-consecutive-ones-iii) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1364-tuple-with-same-product](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/1364-tuple-with-same-product) |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0347-top-k-frequent-elements) |
+| [0977-squares-of-a-sorted-array](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0977-squares-of-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## String
 |  |
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0189-rotate-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/0977-squares-of-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Radha2786/LEETCODE-AND-GFG/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Trie
 |  |
