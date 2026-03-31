@@ -1,23 +1,34 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        HashSet<List<Integer>> ans = new HashSet<>();
+        //space optimised code 
+        // for each i we are calculating 2 sum with sum = -a[i]
+        // i+left+right
+        // a[i]+a[left]+a[right]=0
+        Arrays.sort(nums);
         List<List<Integer>> ls = new ArrayList<>();
-        for(int i=0;i<nums.length;i++){
-            HashSet<Integer> set = new HashSet<>();
-            for(int j=i+1;j<nums.length;j++){
-                int third = -(nums[i]+nums[j]);
-                if(set.contains(third)){
-                    List<Integer> temp = Arrays.asList(nums[i], nums[j], third);
-                    Collections.sort(temp);
-                    ans.add(temp);
+        int n = nums.length;
+        for(int i=0;i<n-2;i++){
+            if(i==0 || nums[i]!=nums[i-1]){
+                int left = i+1;
+                int right = n-1;
+                int target = -1*nums[i];
+                while(left<right){
+                    int sum = nums[left]+nums[right];
+                    if(sum<target){
+                        left++;
+                    }else if(sum>target){
+                        right--;
+                    }else{
+                        ls.add(Arrays.asList(nums[i],nums[left],nums[right]));
+                        left++;
+                        right--;
+                        while(left < right && nums[left] == nums[left - 1]) left++;
+                        while(left < right && nums[right] == nums[right + 1]) right--;
+                    }
+                   
                 }
-                set.add(nums[j]);
             }
         }
-        for(List<Integer> list:ans){
-            ls.add(list);
-        }
-        return ls;
-
+         return ls;
     }
 }
